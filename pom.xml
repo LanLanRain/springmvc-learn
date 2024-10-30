@@ -14,6 +14,8 @@
         <module>03-springmvc</module>
         <module>04-springmvc</module>
         <module>05-springmvc</module>
+        <module>06-springmvc</module>
+        <module>07-springmvc</module>
     </modules>
 
     <properties>
